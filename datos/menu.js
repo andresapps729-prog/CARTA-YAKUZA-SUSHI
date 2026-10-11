@@ -174,7 +174,7 @@ window.MENU_DATA = {
         "descripcion": "",
         "precio": 9000,
         "imagen": "img/bebidas/limonada-hierbabuena.webp"
-      },
+      }
     
     ]
   
