@@ -153,7 +153,7 @@ window.MENU_DATA = {
         "descripcion": "",
         "precio": 4500,
         "imagen": "img/bebidas/gaseosa.webp"
-      }
+      },
          {
         "nombre": "Gaseosas",
         "descripcion": "",
