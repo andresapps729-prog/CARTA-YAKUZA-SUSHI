@@ -176,7 +176,7 @@ window.MENU_DATA = {
         "imagen": "img/bebidas/limonada-hierbabuena.webp"
       },
     
-    ],
+    ]
   
   }
 };
