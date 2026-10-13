@@ -1,4 +1,5 @@
 
+
 window.MENU_DATA = {
   "restaurante": {
     "nombre": "YAKUZA ",
@@ -21,25 +22,25 @@ window.MENU_DATA = {
       {
         "nombre": "Dedos de Salmón Apanados",
         "descripcion": "Tiras de salmón crujientes, apanadas y doradas, servidas con salsa de la casa.",
-        "precio": 15000,
+        "precio": 25000,
         "imagen": "img/entradas/dedos.webp"
       },
        {
         "nombre": "Camarón Apanado",
         "descripcion": "Camarones jugosos con apanado crujiente, acompañados de salsa de la casa.",
-        "precio": 18000,
+        "precio": 23000,
         "imagen": "img/entradas/camp.webp"
       },
       {
         "nombre": "Camarón Teriyaki",
         "descripcion": "Camarones salteados y bañados en salsa teriyaki, con ese toque dulce y ligeramente intenso.",
-        "precio": 12000,
+        "precio": 18000,
         "imagen": "img/entradas/camt.webp"
       },
       {
         "nombre": "Palmitos Apanados",
         "descripcion": "Palmitos tiernos, apanados y fritos hasta quedar dorados y crujientes",
-        "precio": 20000,
+        "precio": 17000,
         "imagen": "img/entradas/palma.webp"
       }
     ],
@@ -47,35 +48,35 @@ window.MENU_DATA = {
       {
         "nombre": "KAIKEIYAKU/el contador",
         "descripcion": "Atún + aguacate + queso crema + mayonesa japonesa + palmitos de cangrejo.  // Preciso y equilibrado. Una combinación cremosa y fresca donde el atún toma el protagonismo, acompañado por la suavidad del aguacate y el queso crema.",
-        "precio": 12000,
+        "precio": 36000,
         "imagen": "img/rolls/atun.webp"
       },
          {
         "nombre": "URAGIRIMONO/el traidor",
         "descripcion": "Camarón salteado + aguacate + queso crema + mayonesa japonesa + tocineta.  // Una combinación intensa y llena de carácter. El camarón salteado aporta el sabor principal, mientras el aguacate y el queso crema equilibran el toque crujiente y ahumado de la tocineta.",
-        "precio": 12000,
+        "precio": 34000,
         "imagen": "img/rolls/traidor.webp"
       },   {
         "nombre": "SHIKAKU/el asesino",
         "descripcion": "Salmón + aguacate + queso crema + maduro + mayonesa japonesa + teriyaki.  // Dulce, cremoso y contundente. El salmón se encuentra con el maduro dorado en una combinación de contrastes que golpea con sabor desde el primer bocado.",
-        "precio": 12000,
+        "precio": 34000,
         "imagen": "img/rolls/asesino.webp"
       },   {
         "nombre": "SENNYŪSHA/el infiltrado",
         "descripcion": "Camarón + mango + aguacate + queso crema + mayonesa japonesa + teriyaki.  // Dulce, fresco y cremoso. El mango se mezcla con el camarón y el aguacate para crear una combinación inesperada que entra suave y sorprende al final.",
-        "precio": 12000,
+        "precio": 31000,
         "imagen": "img/rolls/infiltrado.webp"
       },
          {
         "nombre": "OYABUN/el padrino",
         "descripcion": "Salmón + aguacate + queso crema + mayonesa japonesa + teriyaki.  // Elegante y sofisticado. El salmón es el protagonista de una combinación cremosa y delicada, pensada para representar la autoridad del jefe del clan.",
-        "precio": 12000,
+        "precio": 36000,
         "imagen": "img/rolls/padrino.webp"
       },
       {
         "nombre": "NIJŪSŌ/doble agente",
         "descripcion": "Salmón + camarón salteado + aguacate + queso crema + mayonesa japonesa + teriyaki. // Dos protagonistas, una sola misión. El salmón y el camarón salteado se unen con la cremosidad del aguacate y el queso crema.",
-        "precio": 12000,
+        "precio": 38000,
         "imagen": "img/rolls/agente.webp"
       }
     ],
@@ -89,20 +90,20 @@ window.MENU_DATA = {
       },
        {
         "nombre": "MINI SHOGUN — El jefe del clan",
-        "descripcion": "Mini hamburguesa con queso y papas fritas. Pequeña en tamaño, grande en autoridad.",
-        "precio": 22000,
+        "descripcion": "Mini hamburguesa con queso y papas fritas acompañado de jugo de caja, autoridad y poder.",
+        "precio": 21000,
         "imagen": "img/kids/burger.webp"
       },
        {
         "nombre": "ONI — El demonio del clan",
         "descripcion": "Taco crujiente con pollo y queso, acompañado de papas fritas.Una pequeña dosis de peligro para los miembros más valientes del clan.",
-        "precio": 22000,
+        "precio": 19000,
         "imagen": "img/kids/taco.webp"
       },
       {
         "nombre": "SAMURÁI — El guerrero del clan",
         "descripcion": "Camaron en salsa teriyaki acompañado de papas fritas o arroz. Una combinación sencilla, deliciosa y lista para recuperar fuerzas después de la misión.",
-        "precio": 18000,
+        "precio": 23000,
         "imagen": "img/kids/camaron.webp"
       }
     ],
@@ -111,23 +112,23 @@ window.MENU_DATA = {
       {
         "nombre": "KURO CAKE — El Golpe de Chocolate",
         "descripcion": "Tu torta de chocolate con un poco de salsa y decoración roja o blanca inspirada en Yakuza.",
-        "precio": 10000,
+        "precio": 16000,
         "imagen": "img/postres/torta.webp"
       },  {
         "nombre": "KURO CHEESECAKE — El Golpe Maestro",
         "descripcion": "Cheesecake cremoso con salsa de chocolate y una decoración elegante en negro y rojo.",
-        "precio": 10000,
+        "precio": 15000,
         "imagen": "img/postres/chees.webp"
       },  {
         "nombre": "DORAYAKI — El Tesoro del Clan",
         "descripcion": "Dos pancakes pequeños rellenos de chocolate, crema de avellanas o dulce de leche.",
-        "precio": 10000,
+        "precio": 13000,
         "imagen": "img/postres/panca.webp"
       },
        {
         "nombre": "YAKUZA CELEBRATION — La Misión Especial",
         "descripcion": "Una porción de tu torta de chocolate, decorada con salsa, chispas y una vela aparte para cumpleaños, aniversarios o celebraciones.",
-        "precio": 10000,
+        "precio": 25000,
         "imagen": "img/postres/cele.webp"
       }
     ],
@@ -144,7 +145,7 @@ window.MENU_DATA = {
       {
         "nombre": "Agua",
         "descripcion": "",
-        "precio": 35000,
+        "precio": 3500,
         "imagen": "img/bebidas/agua.webp"
       },
       {
@@ -156,7 +157,7 @@ window.MENU_DATA = {
          {
         "nombre": "Gaseosas",
         "descripcion": "",
-        "precio": 4500,
+        "precio": 10000,
         "imagen": "img/bebidas/litro.webp"
       }
      
